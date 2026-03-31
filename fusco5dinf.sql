@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `bucigno5dinf`
+-- Database: `fusco5dinf`
 --
 
 -- --------------------------------------------------------
@@ -38,8 +38,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`nome`, `email`, `ID`) VALUES
-('andrea', 'bucignoandrea@gmail.', 1),
-('andrea', 'bucignoandrea@gmail.', 2);
+('andrea', 'fuscolorenzo07@gmail.', 1),
+('andrea', 'fuscolorenzo07@gmail.', 2);
 
 --
 -- Indici per le tabelle scaricate
